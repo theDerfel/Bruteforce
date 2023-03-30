@@ -1,5 +1,3 @@
-# SSH-Bruteforce
-
 # Python script for SSH Bruteforce
 
 Usage: ./brutessh.py IP USER WORDLIST
