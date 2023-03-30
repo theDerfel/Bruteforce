@@ -22,4 +22,4 @@ try:
                         break
 except:
         print("=== WELCOME TO SSH BRUTE FORCE! ===")
-        print('Usage: ./brutessh 127.0.0.1 user wordlist.txt')
+        print('Usage: ./brutessh.py 127.0.0.1 user wordlist.txt')
